@@ -1,5 +1,5 @@
 # Transsexual Blog
 
-Visit https://transsexual.blog for a live demo.
+Visit http://transsexual.blog for a live demo.
 
-Author: Jezebel
+Author: a Jezebel
